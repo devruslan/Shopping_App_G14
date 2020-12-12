@@ -42,3 +42,6 @@
   Success!
 7. Confirmation and receipt
   - Choose where you want to receive your receipt
+  [1] No receipt
+  [2] Text
+  [3] Email
