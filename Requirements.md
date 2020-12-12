@@ -1,4 +1,4 @@
-# Steps
+# Requirements/Structure
 
 1. Welcome Screen
   - Registration
