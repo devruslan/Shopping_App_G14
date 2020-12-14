@@ -10,22 +10,41 @@
     - Password
     - Confirmation/Greeting
 2. Manager
-  - Add/Edit Categories
-  - Add/edit Items
+  - Dashboard
+    [1] Add Category
+    [2] Delete Category
+    [3] Add Item
+    [4] Delete Item
+    <!-- [5] Change Password // optional -->
+    <!-- [6] Sign out -->
+    [7] Create coupons (coup30%, coup50%)
+  - Add/Delete Categories
+  - Add/Delete Items
     - Name
     - Price
     - Category
-    - Stock number
+    - Quantity
 3. Shopper
-  - Shopper online balance
-  - View Categories
-  - Select a Category
-  - View Items
-  - Put items to cart (amount)
-  - Check for balance and display warning
-  - Remove Items from cart (amount)
-  - Exit Category
-  - Go to checkout
+- Dashboard
+  - Display the balance
+  [1] Add funds to balance
+  - Shopping
+  [2] Start shopping
+    - View and Select Categories
+      - View Items
+      - Display the cart
+      - Put items to cart
+      - Remove Items from cart
+      - Exit Category
+      - display cart info
+      - Check for balance and display warning
+      - Go to checkout
+    - display cart info
+    - Check for balance and display warning
+    - Go to checkout
+  <!-- [3] Sign out -->
+  <!-- [4] Change password -->
+  <!-- [5] Add personal info -->
 4. Stock Management
   - Takes data from manager and Shopper
   - Affects "View Items" module
