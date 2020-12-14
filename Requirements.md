@@ -27,9 +27,13 @@
 3. Shopper
 - Dashboard
   - Display the balance
-  [1] Add funds to balance
+  - [1] Add funds to balance
+    - Flexible amount
+    - Min $50
+    <!-- - Max $??? -->
+    <!-- - Fixed options -->
   - Shopping
-  [2] Start shopping
+  - [2] Start shopping
     - View and Select Categories
       - View Items
       - Display the cart

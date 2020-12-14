@@ -52,13 +52,16 @@
 3. Shopper
 
   - U.S.9. As a shopper I should be able to view the dashboard
-    - 9.A.C.1.
+    - 9.A.C.1. Verify that the user can observe 3 elements
+    - 9.A.C.1.1. Display balance
+    - 9.A.C.1.2. Option to add funds to balance
+    - 9.A.C.1.3. Option to start shopping
     - 9.A.C.2.
 
-  - U.S.9.
+  - U.S.9. Funds
 
-  - U.S.10.
+  - U.S.10. Categories
 
-  - U.S.11.
+  - U.S.11. Items
 
   - U.S.12.
