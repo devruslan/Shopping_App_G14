@@ -58,10 +58,35 @@
     - 9.A.C.1.3. Option to start shopping
     - 9.A.C.2.
 
-  - U.S.9. Funds
-
-  - U.S.10. Categories
-
-  - U.S.11. Items
-
-  - U.S.12.
+  - U.S.10. As a user a should be able to add funds to my account, so I could use it to purchase goods later.
+    - 10.A.C.1. Verify that a user can add funds to their account
+    - 10.A.C.1.1 Verify that after adding or subtracting funds the final amount changes
+    - 10.A.C.1.2 Verify that a user only can add amount of money which is greater or equal to $50
+    - 10.A.C.1.3 Verify that a user can all add funds by all the payment methods mentioned.
+  - U.S.11. As a user I should be able to use Shopping option, so I could process to shopping categories
+    - 11.A.C.1. Verify that a user can use a Shopping option of the dashboard to access the shopping market/categories
+  - U.S.12. As a user I should be able to see all the categories represented in the app
+    - 12.A.C.1. Verify that a user can see different categories
+    - 12.A.C.2. Verify that a user can choose categories
+    - 12.A.C.3 Verify that categories are organised in a designed manner
+    - 12.A.C.4. Verify that a user is redirected to a list of items under the chosen category
+  - U.S.13. As a user I should be able to see the list of all items in a category and my cart
+    - 13.A.C.1 Verify that a user can see items
+    - 13.A.C.2 Verify that a user can see their cart and its status
+    - 13.A.C.3 Verify that a user can click, choose, see extra info of an item.
+    - 13.A.C.4 Verify that a user can switch, exit a category of items
+   - U.S. 14. As a user I should be able to add and remove an item to/from my cart
+    - 14.A.C.1 Verify that a user can add an item they selected by pressing add button
+     - 14.A.C.2 Verify that the quantity of items in a cart increases when a user adds an item
+     - 14.A.C.3 Verify that the total changes when a user adds an item
+     - 14.A.C.4 Verify that the quantity of items in a cart decreases  when a user removes an item
+     - 14.A.C.5 Verify that the total changes when a user removes an item
+     - 14.A.C.6 Verify that a user can see the full info of an item in a cart ant its total
+     - 14.A.C.7 Verify that a user can modify quantity of the same item in a cart
+     - 14.A.C.8 Verify that a user can see a warning message when total exceeds his balance
+     - 14.A.C.9 Verify that a user can see a warning message when the price of an item changes
+     - 14.A.C.10 Verify that a user can see a warning message when they can't increase the quantity of an item
+     - 14.A.C.11 Verify that a user can proceed to a check out page by clicking the button checkout
+    
+    
+    
