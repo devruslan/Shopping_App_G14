@@ -32,9 +32,11 @@
     - Min $50
     <!-- - Max $??? -->
     <!-- - Fixed options -->
+    <!-- - Payment option PayPal, CreditCard-->
   - Shopping
   - [2] Start shopping
     - View and Select Categories
+    ([1]Cloths, [2]Shoes, [3]Bags ...)
       - View Items
       - Display the cart
       - Put items to cart
