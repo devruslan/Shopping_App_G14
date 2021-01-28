@@ -7,4 +7,6 @@ public class DelgiraClass {
         //Hey it's Paul. Let's see if it works
     }
       //second comment by Delgira
+
+    // hey guys, group meeting tonight with Edikbek, please attend it :)
 }
